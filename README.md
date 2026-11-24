@@ -10,7 +10,7 @@ This project documents my journey building an enterprise my home lab to gain han
 ## Lab Environment
 
 | System | Purpose |
-
+|---|---|
 | VMware Workstation | Virtualization |
 | Windows Server 2019 | Domain Controller |
 | Windows 11 Pro | Client Endpoint |
