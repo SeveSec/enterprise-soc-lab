@@ -66,3 +66,4 @@ DC01 remains in the default Domain Controllers OU.
 - Differences between containers and organizational units.
 - Active Directory group scopes and types.
 - Organizing directory objects for targeted Group Policy.
+- Assigning permissions through security groups rather than individual accounts simplifies access management and improves scalability.
