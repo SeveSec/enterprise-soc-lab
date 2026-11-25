@@ -24,9 +24,13 @@ This project documents my journey building an enterprise my home lab to gain han
 - [x] Virtual network configuration
 - [x] Static IP addressing
 - [x] Firewall configuration and connectivity testing
-- [ ] Active Directory and DNS deployment
-- [ ] Domain-joined endpoints
-- [ ] Group Policy and security auditing
+- [x] Active Directory and DNS deployment
+- [x] Domain-joined endpoints
+- [x] Organizational units and employee accounts
+- [x] Security group creation
+- [x] Workstation Group Policy and security auditing
+- [ ] Domain controller security auditing (In Progress)
+- [ ] Sysmon deployment
 - [ ] SIEM implementation
 - [ ] Detection engineering
 - [ ] Threat hunting
@@ -35,8 +39,12 @@ This project documents my journey building an enterprise my home lab to gain han
 
 ## Documentation
 
-Each phase will include configuration details, screenshots,
-troubleshooting, and lessons learned.
+| Phase | Documentation |
+|---|---|
+| 1 | [Network Configuration](documentation/01-network-configuration.md) |
+| 2 | [Active Directory Deployment](documentation/02-active-directory-deployment.md) |
+| 3 | [Enterprise Environment](documentation/03-enterprise-environment.md) |
+| 4 | [Group Policy and Security Auditing](documentation/04-group-policy-and-security-auditing.md) |
 
 ## Network Architecture
 
