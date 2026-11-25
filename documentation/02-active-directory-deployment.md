@@ -42,5 +42,6 @@ with a domain-joined Windows 11 workstation.
 ## Lessons Learned
 
 - The difference between a forest, domain, and domain controller.
-- The importance of DNS in Active Directory environments.
+- Proper DNS configuration is essential for domain discovery, authentication, and joining computers to Active Directory.
 - The process of joining endpoints to a centralized domain.
+
