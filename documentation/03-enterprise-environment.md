@@ -23,14 +23,14 @@ units, employee accounts, and role-based security groups.
 
 | Employee | Username | Department |
 |---|---|---|
-| James Miller | jmiller | IT |
-| Daniel Wilson | dwilson | IT |
-| Sarah Johnson | sjohnson | Human Resources |
-| Emily Davis | edavis | Human Resources |
-| Michael Brown | mbrown | Finance |
-| Jessica Taylor | jtaylor | Finance |
-| David Anderson | danderson | Sales |
-| Ashley Thomas | athomas | Sales |
+| Will Welch | will.welch | IT |
+| Gabe Day | gabe.day | IT |
+| Sarah Johnson | sarah.johnson | Human Resources |
+| Emily Davis | emily.davis | Human Resources |
+| Michael Johnson | michael.johnson | Finance |
+| Steve Smith | steve.smith | Finance |
+| David Anderson | david.anderson | Sales |
+| Ashley Brown | ashley.thomas | Sales |
 
 All employee accounts represent fictional individuals.
 
