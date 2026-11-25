@@ -61,3 +61,4 @@ Windows Defender Firewall.
 - Static IP addressing provides consistent network identification.
 - Host-based firewalls can block traffic despite correct IP configurations.
 - Restricting firewall rules to necessary traffic follows the principle of least privilege.
+- Successful network communication depends on both correct IP configurations and properly configured firewall rules.
